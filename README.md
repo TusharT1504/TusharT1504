@@ -21,7 +21,7 @@
   <a href="https://x.com/tushart1504" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
   <a href="https://www.linkedin.com/in/tushart1504/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://codeforces.com/profile/fenrirr" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" /></a>
-  <a href="https://leetcode.com/fenrirr/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" /></a>
+  <a href="https://leetcode.com/fenrirrr/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" /></a>
 </p>
 
 ## 💻 Tech Stack
